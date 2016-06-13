@@ -1,6 +1,6 @@
 <?php
 
-require 'D:\\PHP - 5.4.4\\phplot\\phplot.php';
+require 'C:/Path/To/phplot.php';
 
 // CURRENT DIRECTORY
 $cd = dirname(__FILE__);
