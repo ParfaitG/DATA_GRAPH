@@ -1,0 +1,24 @@
+sector_code	sector_name	display_level	selectable	sort_sequence
+4900	Private Business Sector (NAICS 11-81)	0	T	2	
+4910	Private Non-Farm Business Sector (NAICS 113-81)	0	T	3	
+5000	Wood Products (NAICS 321)	2	T	62	
+5050	Nonmetallic Mineral Products (NAICS 327)	2	T	63	
+5100	Primary Metals (NAICS 331)	2	T	64	
+5150	Fabricated Metal Products (NAICS 332)	2	T	65	
+5200	Machinery (NAICS 333)	2	T	66	
+5250	Computer and Electronic Products (NAICS 334)	2	T	67	
+5300	Electrical Equipment, Appliances, and Components (NAICS 335)	2	T	68	
+5350	Transportation Equipment (NAICS 336)	2	T	69	
+5400	Furniture and Related Products (NAICS 337)	2	T	70	
+5450	Miscellaneous Manufacturing (NAICS 339)	2	T	71	
+5500	Food and Beverage and Tobacco Products (NAICS 311, 312)	2	T	53	
+5550	Textile Mills and Textile Product Mills (NAICS 313, 314)	2	T	54	
+5600	Apparel and Leather and Applied Products (NAICS 315, 316)	2	T	55	
+5650	Paper Products (NAICS 322)	2	T	56	
+5700	Printing and Related Support Activities (NAICS 323)	2	T	57	
+5750	Petroleum and Coal Products (NAICS 324)	2	T	58	
+5800	Chemical Products (NAICS 325)	2	T	59	
+5850	Plastics and Rubber Products (NAICS 326)	2	T	60	
+9900	Manufacturing Sector (NAICS 311-339)	0	T	51	
+9910	Non-Durable Manufacturing Sector (NAICS 311-316, 322-326)	1	T	52	
+9920	Durable Manufacturing Sector (NAICS 321, 327, 331-337, 339)	1	T	61	
